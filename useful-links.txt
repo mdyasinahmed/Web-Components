@@ -1,0 +1,2 @@
+fontawesome icon kit
+<script src="https://kit.fontawesome.com/22eb22bc50.js" crossorigin="anonymous"></script>
